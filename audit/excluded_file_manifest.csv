@@ -1,0 +1,7 @@
+source_path,reason_excluded,risk_level,notes
+<PROJECT_ROOT>/codextools,tool_environment_not_for_public_repository,high,"Tooling, packages, caches, and helper environments are excluded."
+<PROJECT_ROOT>/Data/Transcriptomics data,large_raw_third_party_data_not_redistributed,high,Raw transcriptomics downloads/archives are excluded.
+<PROJECT_ROOT>/Data/EMSAv1 External Data/ST001000,raw_external_dataset_not_redistributed,high,ST001000 raw matrices and vendor/raw files are excluded.
+<PROJECT_ROOT>/Data/raw ENA NCBI Qiita downloads,raw_accession_data_not_redistributed,high,Accession/source manifests are provided instead of raw downloads.
+<PROJECT_ROOT>/large final figure artwork,large_tiff_pdf_svg_artwork_excluded,medium,Figure source-data/status files are included instead.
+<PROJECT_ROOT>/virtualenvs package caches compiled artifacts,runtime_environment_artifacts_excluded,medium,"venv, site-packages, __pycache__, .pyc, node_modules, Inkscape, and 7zip artifacts are excluded."

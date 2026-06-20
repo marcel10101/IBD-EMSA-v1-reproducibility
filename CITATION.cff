@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: IBD-EMSA v1 public repository package
+message: Please cite the associated manuscript and archived release DOI once available.
+authors:
+  - family-names: To be completed
+    given-names: To be completed
+version: v1
+date-released: 2026-06-20
+repository-code: https://github.com/OWNER/REPOSITORY

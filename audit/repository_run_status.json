@@ -1,0 +1,48 @@
+{
+  "generated": "2026-06-20T14:41:41",
+  "results": [
+    {
+      "command": "python reproduce_minimal_results.py",
+      "returncode": 0,
+      "stdout": "{\n  \"checks\": {\n    \"candidate_count\": {\n      \"observed\": 499,\n      \"expected\": 499,\n      \"pass\": true\n    },\n    \"omics_split\": {\n      \"observed\": {\n        \"metabolome\": 154,\n        \"microbiome\": 345\n      },\n      \"expected\": {\n        \"microbiome\": 345,\n        \"metabolome\": 154\n      },\n      \"pass\": true\n    },\n    \"tier_counts\": {\n      \"observed\": {\n        \"Evidence Tier I\": 15,\n        \"Evidence Tier II\": 313,\n        \"Evidence Tier III\": 171\n      },\n      \"expected\": {\n        \"Evidence Tier I\": 15,\n        \"Evidence Tier II\": 313,\n        \"Evidence Tier III\": 171\n      },\n      \"pass\": true\n    },\n    \"internal_model_results_table_exists\": {\n      \"path\": \"outputs_expected/expected_internal_model_results.csv\",\n      \"pass\": true\n    },\n    \"st001000_performance_status_table_exists\": {\n      \"path\": \"data/external_ST001000/st001000_performance_summary.csv\",\n      \"pass\": true\n    }\n  },\n  \"st001000_strict_projection_recomputed\": false,\n  \"reason\": \"mapping_insufficient_or_locked_projection_incomplete\",\n  \"overall_pass\": true\n}\n",
+      "stderr": "",
+      "status": "passed"
+    },
+    {
+      "command": "python tests/test_minimal_reproducibility.py",
+      "returncode": 0,
+      "stdout": "test_minimal_reproducibility passed\n",
+      "stderr": "",
+      "status": "passed"
+    },
+    {
+      "command": "python tests/test_no_absolute_paths_in_public_docs.py",
+      "returncode": 0,
+      "stdout": "test_no_absolute_paths_in_public_docs passed\n",
+      "stderr": "",
+      "status": "passed"
+    },
+    {
+      "command": "python tests/test_no_large_raw_data_in_package.py",
+      "returncode": 0,
+      "stdout": "test_no_large_raw_data_in_package passed\n",
+      "stderr": "",
+      "status": "passed"
+    },
+    {
+      "command": "python tests/test_required_columns.py",
+      "returncode": 0,
+      "stdout": "test_required_columns passed\n",
+      "stderr": "",
+      "status": "passed"
+    },
+    {
+      "command": "python tests/test_required_repository_files.py",
+      "returncode": 0,
+      "stdout": "test_required_repository_files passed\n",
+      "stderr": "",
+      "status": "passed"
+    }
+  ],
+  "overall_status": "passed"
+}

@@ -1,0 +1,11 @@
+name: ibd-emsa-v1-public
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - openpyxl
+  - matplotlib
+  - seaborn

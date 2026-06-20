@@ -1,0 +1,16 @@
+standardized_feature_name,module,omics_layer,IBD vs Reference,IBD vs Reference status,CD vs Reference,CD vs Reference status,UC vs Reference,UC vs Reference status,Active vs Remission,Active vs Remission status,Relapse-related,Relapse-related status,Post-treatment / state shift,Post-treatment / state shift status
+Butyric acid,SCFAs / butyrate-producing taxa,metabolome,2.0,direct comparison support,0,not available,0,not available,0.5,limited evidence,0.0,not available,0.5,limited evidence
+Deoxycarnitine,Bile acids,metabolome,2.0,direct comparison support,0,not available,0,not available,0.5,limited evidence,0.0,not available,0.0,not available
+Deoxycholate,Bile acids,metabolome,2.0,direct comparison support,0,not available,0,not available,0.5,limited evidence,0.0,not available,0.0,not available
+Isobutyric acid,SCFAs / butyrate-producing taxa,metabolome,1.0,direct comparison support,0,not available,0,not available,0.5,limited evidence,0.0,not available,0.5,limited evidence
+Lysine,Amino acids / aromatic amino acids,metabolome,2.0,direct comparison support,0,not available,0,not available,0.5,limited evidence,0.0,not available,0.0,not available
+Phenylacetic acid,Amino acids / aromatic amino acids,metabolome,2.0,direct comparison support,0,not available,0,not available,0.5,limited evidence,0.0,not available,0.0,not available
+Phenylalanine,Amino acids / aromatic amino acids,metabolome,1.0,direct comparison support,0,not available,0,not available,0.5,limited evidence,0.0,not available,0.0,not available
+p-Hydroxyphenylacetic acid,Amino acids / aromatic amino acids,metabolome,2.0,direct comparison support,0,not available,0,not available,0.5,limited evidence,0.0,not available,0.0,not available
+Ruminococcus bicirculans / SGB4262,SCFAs / butyrate-producing taxa,microbiome,0.5,limited anchor support,0,not available,0,not available,0.5,limited evidence,0.0,not available,2.0,direct comparison support
+hydroxy stearic acid-C18:1 (metabolome),Oxidative stress-related lipids,metabolome,3.0,direct comparison support,0,not available,0,not available,0.5,limited evidence,0.5,limited evidence,0.0,not available
+hydroxy stearic acid-C18:1 (microbiome),Oxidative stress-related lipids,microbiome,3.0,direct comparison support,0,not available,0,not available,0.5,limited evidence,0.5,limited evidence,0.0,not available
+GGB9715 SGB15260,SCFAs / butyrate-producing taxa,microbiome,0.5,limited anchor support,0,not available,0,not available,0.5,limited evidence,0.0,not available,2.0,direct comparison support
+Subdoligranulum sp. / SGB15286,SCFAs / butyrate-producing taxa,microbiome,0.5,limited anchor support,0,not available,0,not available,0.5,limited evidence,0.0,not available,2.0,direct comparison support
+cholic acid-C14:0 (metabolome),Bile acids,metabolome,2.0,direct comparison support,0,not available,0,not available,0.5,limited evidence,0.0,not available,0.0,not available
+cholic acid-C14:0 (microbiome),Bile acids,microbiome,2.0,direct comparison support,0,not available,0,not available,0.5,limited evidence,0.0,not available,0.0,not available

@@ -1,0 +1,10 @@
+check_item,status,blocking_yes_no,notes
+Required repository files present,pass,no,Validated by standalone tests.
+No absolute paths in public docs/manifests,pass,no,Public docs/manifests use relative paths or <PROJECT_ROOT>; internal location records may contain full local paths.
+No disallowed tool/env/cache/raw/artwork files,pass,no,"Scanned for raw/vendor extensions, env/cache paths, and files >20MB."
+ST001000 wording boundary,pass,no,No positive or inflated complete-external-validation claim detected.
+Standalone tests,pass,no,See audit/final_test_results.csv.
+License selected,manual_action_needed,yes,Replace LICENSE_PLACEHOLDER.txt with the final license before public release.
+GitHub repository URL/contact,manual_action_needed,yes,Replace placeholder OWNER/REPOSITORY and author/contact fields.
+Permanent DOI archive,manual_action_needed,yes_for_manuscript_submission,"Archive GitHub release in Zenodo, OSF, or Figshare before manuscript submission if DOI is required."
+Raw/private data depositor review,manual_action_needed,yes,Final human review required before public upload.

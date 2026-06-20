@@ -1,0 +1,13 @@
+omics_category,count,percentage,single_or_multi_omics,notes
+Microbiome,163,33.2,single/primary omics,Regenerated from 01_master_491_repaired
+Multi-omics,147,29.94,multi-omics,Regenerated from 01_master_491_repaired
+Unclear after full-text review,69,14.05,single/primary omics,Regenerated from 01_master_491_repaired
+Transcriptomics,36,7.33,single/primary omics,Regenerated from 01_master_491_repaired
+Metabolomics,28,5.7,single/primary omics,Regenerated from 01_master_491_repaired
+Virome,17,3.46,single/primary omics,Regenerated from 01_master_491_repaired
+Proteomics,8,1.63,single/primary omics,Regenerated from 01_master_491_repaired
+Metagenomics,8,1.63,single/primary omics,Regenerated from 01_master_491_repaired
+Mycobiome,6,1.22,single/primary omics,Regenerated from 01_master_491_repaired
+Epigenomics,5,1.02,single/primary omics,Regenerated from 01_master_491_repaired
+Genomics,3,0.61,single/primary omics,Regenerated from 01_master_491_repaired
+"Other, specified",1,0.2,single/primary omics,Regenerated from 01_master_491_repaired

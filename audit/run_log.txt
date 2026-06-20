@@ -1,0 +1,11 @@
+2026-06-20T14:15:34 Created package skeleton: <PROJECT_ROOT>\Code available\public_repository_code_package_GitHub_ready_20260620_141023
+2026-06-20T14:15:34 candidate/tier outputs complete
+2026-06-20T14:15:36 HMP2, locked scoring, ST001000 outputs complete
+2026-06-20T14:15:37 figure and supplementary outputs complete
+2026-06-20T14:15:37 wrappers/docs/tests complete
+2026-06-20T14:15:38 initial audit files complete
+2026-06-20T14:15:42 run_all_reproducible_steps.py status=passed
+2026-06-20T14:38:51 final pre-upload audit completed; status=not_ready_until_blocking_findings_are_fixed; tests=passed; absolute_path_scan=complete; st001000_claims_scan=complete; manifest_sha256_refreshed
+2026-06-20T14:39:54 final pre-upload audit completed; status=not_ready_until_blocking_findings_are_fixed; tests=passed; absolute_path_scan=complete; st001000_claims_scan=complete; manifest_sha256_refreshed
+2026-06-20T14:40:32 final pre-upload audit completed; status=ready_for_github_upload_with_manual_metadata_checks; tests=passed; absolute_path_scan=complete; st001000_claims_scan=complete; manifest_sha256_refreshed
+2026-06-20T14:41:35 final pre-upload audit completed; status=ready_for_github_upload_with_manual_metadata_checks; tests=passed; absolute_path_scan=complete; st001000_claims_scan=complete; manifest_sha256_refreshed

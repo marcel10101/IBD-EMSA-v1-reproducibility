@@ -1,0 +1,60 @@
+command,started,ended,returncode,status,stdout,stderr
+python reproduce_minimal_results.py,2026-06-20T14:41:36,2026-06-20T14:41:36,0,passed,"{
+  ""checks"": {
+    ""candidate_count"": {
+      ""observed"": 499,
+      ""expected"": 499,
+      ""pass"": true
+    },
+    ""omics_split"": {
+      ""observed"": {
+        ""metabolome"": 154,
+        ""microbiome"": 345
+      },
+      ""expected"": {
+        ""microbiome"": 345,
+        ""metabolome"": 154
+      },
+      ""pass"": true
+    },
+    ""tier_counts"": {
+      ""observed"": {
+        ""Evidence Tier I"": 15,
+        ""Evidence Tier II"": 313,
+        ""Evidence Tier III"": 171
+      },
+      ""expected"": {
+        ""Evidence Tier I"": 15,
+        ""Evidence Tier II"": 313,
+        ""Evidence Tier III"": 171
+      },
+      ""pass"": true
+    },
+    ""internal_model_results_table_exists"": {
+      ""path"": ""outputs_expected/expected_internal_model_results.csv"",
+      ""pass"": true
+    },
+    ""st001000_performance_status_table_exists"": {
+      ""path"": ""data/external_ST001000/st001000_performance_summary.csv"",
+      ""pass"": true
+    }
+  },
+  ""st001000_strict_projection_recomputed"": false,
+  ""reason"": ""mapping_insufficient_or_locked_projection_incomplete"",
+  ""overall_pass"": true
+}
+",
+python run_all_reproducible_steps.py,2026-06-20T14:41:36,2026-06-20T14:41:41,0,passed,"{
+  ""overall_status"": ""passed""
+}
+",
+python tests/test_required_repository_files.py,2026-06-20T14:41:41,2026-06-20T14:41:42,0,passed,"test_required_repository_files passed
+",
+python tests/test_no_absolute_paths_in_public_docs.py,2026-06-20T14:41:42,2026-06-20T14:41:43,0,passed,"test_no_absolute_paths_in_public_docs passed
+",
+python tests/test_no_large_raw_data_in_package.py,2026-06-20T14:41:43,2026-06-20T14:41:44,0,passed,"test_no_large_raw_data_in_package passed
+",
+python tests/test_required_columns.py,2026-06-20T14:41:44,2026-06-20T14:41:44,0,passed,"test_required_columns passed
+",
+python tests/test_minimal_reproducibility.py,2026-06-20T14:41:44,2026-06-20T14:41:45,0,passed,"test_minimal_reproducibility passed
+",

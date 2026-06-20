@@ -1,0 +1,8 @@
+task,qc_passed_sample_n,locked_feature_denominator,matched_feature_count,metric_status,strict_projection_recomputed,reason,notes
+UC vs Control,132,25,8,not_recomputable,false,model_intercept_missing;preprocessing_scaling_not_certified;incomplete_feature_matching,Summary-level external metabolomics projection only.
+CD vs Control,144,25,5,not_recomputable,false,model_intercept_missing;preprocessing_scaling_not_certified;incomplete_feature_matching,Summary-level external metabolomics projection only.
+IBD vs Control,220,25,4,not_recomputable,false,model_intercept_missing;preprocessing_scaling_not_certified;incomplete_feature_matching,Summary-level external metabolomics projection only.
+CD vs UC,164,25,2,not_recomputable,false,model_intercept_missing;preprocessing_scaling_not_certified;incomplete_feature_matching,Summary-level external metabolomics projection only.
+UC vs nonIBD,132,25,8,not_recomputable,false,model_intercept_missing;preprocessing_scaling_not_certified;incomplete_feature_matching,Summary-level external metabolomics projection only.
+CD vs nonIBD,144,25,5,not_recomputable,false,model_intercept_missing;preprocessing_scaling_not_certified;incomplete_feature_matching,Summary-level external metabolomics projection only.
+nonIBD vs IBD,220,25,4,not_recomputable,false,model_intercept_missing;preprocessing_scaling_not_certified;incomplete_feature_matching,Summary-level external metabolomics projection only.

@@ -1,0 +1,2 @@
+path,size_bytes,issue_type,issue_classification,action_taken,notes
+__summary__,,none,pass,no_action_needed,"No disallowed file paths, extensions, >20MB files, or ST001000 identifying projection columns were found."

@@ -1,0 +1,16 @@
+check_item,status,blocking_yes_no,auto_fixed_yes_no,manual_action_needed,notes
+CITATION.cff repository-code changed from local-path placeholder to GitHub URL placeholder.,auto_fixed,no,yes,no,Completed during final local pre-upload audit.
+"source_manifest.csv expanded with explicit candidate, filtering, internal-model, and locked-coefficient records.",auto_fixed,no,yes,no,Completed during final local pre-upload audit.
+excluded_file_manifest.csv normalized to sanitized <PROJECT_ROOT> paths.,auto_fixed,no,yes,no,Completed during final local pre-upload audit.
+final pre-upload audit CSV/MD reports generated.,auto_fixed,no,yes,no,Completed during final local pre-upload audit.
+repository_file_manifest.csv and SHA256SUMS.txt regenerated after audit updates.,auto_fixed,no,yes,no,Completed during final local pre-upload audit.
+Required repository files present,pass,no,no,no,Validated by standalone tests.
+No absolute paths in public docs/manifests,pass,no,no,no,Public docs/manifests use relative paths or <PROJECT_ROOT>; internal location records may contain full local paths.
+No disallowed tool/env/cache/raw/artwork files,pass,no,no,no,"Scanned for raw/vendor extensions, env/cache paths, and files >20MB."
+ST001000 wording boundary,pass,no,no,no,No positive or inflated complete-external-validation claim detected.
+Standalone tests,pass,no,no,no,See audit/final_test_results.csv.
+License selected,manual_action_needed,yes,no,yes,Replace LICENSE_PLACEHOLDER.txt with the final license before public release.
+GitHub repository URL/contact,manual_action_needed,yes,no,yes,Replace placeholder OWNER/REPOSITORY and author/contact fields.
+Permanent DOI archive,manual_action_needed,yes_for_manuscript_submission,no,yes,"Archive GitHub release in Zenodo, OSF, or Figshare before manuscript submission if DOI is required."
+Raw/private data depositor review,manual_action_needed,yes,no,yes,Final human review required before public upload.
+Final local package status,ready_for_github_upload_with_manual_metadata_checks,no,no,yes,Manual metadata/data-review actions remain before public release and manuscript submission.

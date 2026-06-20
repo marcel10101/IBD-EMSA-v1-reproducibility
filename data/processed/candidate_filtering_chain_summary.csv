@@ -1,0 +1,6 @@
+filter_step,input_n,output_n,source_status,notes
+metabolomics_raw_feature_space,81867,1000,raw_matrix_not_redistributed,Count from audit; raw matrix not redistributed.
+microbiome_taxa_feature_space,1479,470,processed_or_audit_level_reproducibility,Count from audit.
+upstream_candidate_pool,1470,499,processed_or_audit_level_reproducibility,Fresh reconstruction overlaps legacy 499/499.
+final_candidate_split_microbiome,499,345,release_ready_audit_table,Directly detected microbiome candidates.
+final_candidate_split_metabolome,499,154,release_ready_audit_table,Directly detected metabolome candidates.

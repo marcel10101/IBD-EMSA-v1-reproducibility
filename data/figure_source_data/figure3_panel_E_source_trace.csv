@@ -1,0 +1,2 @@
+panel,panel_status,fallback_reason,displayed_element,displayed_value,source_file,source_sheet,source_column,source_row_or_rule,transformation,verification_status,notes
+E,formal data panel,Six scoring dimensions have source fields and predefined score caps; missing values remain grey.,Normalized evidence score,raw_score / predefined score_cap,<PROJECT_ROOT>\Figures Tables\核心指纹\02_all_candidate_features_weight_table_revised.xlsx,weight_table_revised,six score fields,Tier I rows only,Use score caps from scoring_rules; no observed maxima used.,verified,

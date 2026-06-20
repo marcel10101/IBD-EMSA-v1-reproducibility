@@ -1,0 +1,15 @@
+feature_id,feature_name,omics_type,coefficient,intercept,scaling_mean,scaling_sd,model_task,recoverable_status,notes
+,,integrated_early_fusion,,-0.9681389746276494,,,nonIBD vs IBD,recovered_or_partial_audit_row,Recovered from model artifact.; scaling_parameters_missing
+,,late_fusion,,-3.892619186857707,,,nonIBD vs IBD,recovered_or_partial_audit_row,Late-fusion logistic intercept recovered.; scaling_parameters_missing
+,,metabolome,,1.564704652481225,,,nonIBD vs IBD,recovered_or_partial_audit_row,Recovered from model artifact.; scaling_parameters_missing
+,,metabolome,,,,,UC vs nonIBD,recovered_or_partial_audit_row,not_recoverable_from_current_archive; intercept_missing; scaling_parameters_missing
+,,microbiome,,-0.0491530013847204,,,nonIBD vs IBD,recovered_or_partial_audit_row,Recovered from model artifact.; scaling_parameters_missing
+,,microbiome,,-0.018835156377574,,,CD vs nonIBD,recovered_or_partial_audit_row,Recovered from model artifact.; scaling_parameters_missing
+,,microbiome,,-0.0197530858827749,,,UC vs nonIBD,recovered_or_partial_audit_row,Recovered from model artifact.; scaling_parameters_missing
+,,microbiome,,0.622459352016449,,,CD vs UC,recovered_or_partial_audit_row,Recovered from model artifact.; scaling_parameters_missing
+,,microbiome,,1.0353173455984832,,,pre-treatment vs post-treatment,recovered_or_partial_audit_row,Recovered from model artifact.; scaling_parameters_missing
+,,microbiome,,,,,CD vs UC,recovered_or_partial_audit_row,not_recoverable_from_current_archive; intercept_missing; scaling_parameters_missing
+,,metabolome,,,,,CD vs UC,recovered_or_partial_audit_row,not_recoverable_from_current_archive; intercept_missing; scaling_parameters_missing
+,,metabolome,,,,,CD vs nonIBD,recovered_or_partial_audit_row,not_recoverable_from_current_archive; intercept_missing; scaling_parameters_missing
+,,metabolome,,,,,UC vs nonIBD,recovered_or_partial_audit_row,not_recoverable_from_current_archive; intercept_missing; scaling_parameters_missing
+,,metabolome,,,,,nonIBD vs IBD,recovered_or_partial_audit_row,not_recoverable_from_current_archive; intercept_missing; scaling_parameters_missing

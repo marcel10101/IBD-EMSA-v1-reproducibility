@@ -1,0 +1,11 @@
+task,modality,model_name,prediction_source,bin,mean_pred_prob,observed_event_rate
+nonIBD vs IBD,metabolome,ridge_logistic,locked_stage18D_reused_stage18C_grouped_cv,1,0.0638708397150877,0.4615384615384615
+nonIBD vs IBD,metabolome,ridge_logistic,locked_stage18D_reused_stage18C_grouped_cv,2,0.1969739979723773,0.5128205128205128
+nonIBD vs IBD,metabolome,ridge_logistic,locked_stage18D_reused_stage18C_grouped_cv,3,0.3744758054127191,0.358974358974359
+nonIBD vs IBD,metabolome,ridge_logistic,locked_stage18D_reused_stage18C_grouped_cv,4,0.5712722089190357,0.6842105263157895
+nonIBD vs IBD,metabolome,ridge_logistic,locked_stage18D_reused_stage18C_grouped_cv,5,0.6922112333390397,0.717948717948718
+nonIBD vs IBD,metabolome,ridge_logistic,locked_stage18D_reused_stage18C_grouped_cv,6,0.8034545558796538,0.9230769230769232
+nonIBD vs IBD,metabolome,ridge_logistic,locked_stage18D_reused_stage18C_grouped_cv,7,0.8830292187187517,0.7368421052631579
+nonIBD vs IBD,metabolome,ridge_logistic,locked_stage18D_reused_stage18C_grouped_cv,8,0.9448834888014048,0.8974358974358975
+nonIBD vs IBD,metabolome,ridge_logistic,locked_stage18D_reused_stage18C_grouped_cv,9,0.9779742287724325,1.0
+nonIBD vs IBD,metabolome,ridge_logistic,locked_stage18D_reused_stage18C_grouped_cv,10,0.993887999782305,1.0

@@ -1,0 +1,101 @@
+year,omics_category,count,total_count_year
+2005,Multi-omics,3,3
+2007,Microbiome,1,1
+2008,Microbiome,1,2
+2008,Transcriptomics,1,2
+2010,Microbiome,2,3
+2010,Multi-omics,1,3
+2011,Epigenomics,1,4
+2011,Microbiome,1,4
+2011,Multi-omics,1,4
+2011,Unclear after full-text review,1,4
+2012,Microbiome,1,2
+2012,Proteomics,1,2
+2013,Microbiome,1,6
+2013,Multi-omics,1,6
+2013,Transcriptomics,1,6
+2013,Unclear after full-text review,3,6
+2014,Epigenomics,1,5
+2014,Microbiome,2,5
+2014,Multi-omics,2,5
+2015,Microbiome,3,6
+2015,Unclear after full-text review,2,6
+2015,Virome,1,6
+2016,Epigenomics,1,11
+2016,Genomics,2,11
+2016,Metabolomics,1,11
+2016,Multi-omics,3,11
+2016,Transcriptomics,1,11
+2016,Unclear after full-text review,3,11
+2017,Epigenomics,1,9
+2017,Microbiome,5,9
+2017,Mycobiome,1,9
+2017,Unclear after full-text review,2,9
+2018,Metabolomics,1,13
+2018,Microbiome,3,13
+2018,Multi-omics,1,13
+2018,Proteomics,1,13
+2018,Transcriptomics,2,13
+2018,Unclear after full-text review,4,13
+2018,Virome,1,13
+2019,Metabolomics,1,29
+2019,Microbiome,7,29
+2019,Multi-omics,10,29
+2019,Mycobiome,1,29
+2019,Transcriptomics,4,29
+2019,Unclear after full-text review,5,29
+2019,Virome,1,29
+2020,Metagenomics,1,26
+2020,Microbiome,3,26
+2020,Multi-omics,7,26
+2020,Mycobiome,1,26
+2020,Proteomics,2,26
+2020,Transcriptomics,2,26
+2020,Unclear after full-text review,7,26
+2020,Virome,3,26
+2021,Metabolomics,2,50
+2021,Microbiome,23,50
+2021,Multi-omics,10,50
+2021,Proteomics,2,50
+2021,Transcriptomics,7,50
+2021,Unclear after full-text review,4,50
+2021,Virome,2,50
+2022,Metabolomics,3,63
+2022,Metagenomics,2,63
+2022,Microbiome,31,63
+2022,Multi-omics,13,63
+2022,Transcriptomics,3,63
+2022,Unclear after full-text review,11,63
+2023,Metabolomics,4,53
+2023,Microbiome,20,53
+2023,Multi-omics,15,53
+2023,Mycobiome,1,53
+2023,Proteomics,1,53
+2023,Transcriptomics,3,53
+2023,Unclear after full-text review,7,53
+2023,Virome,2,53
+2024,Epigenomics,1,87
+2024,Metabolomics,9,87
+2024,Metagenomics,1,87
+2024,Microbiome,30,87
+2024,Multi-omics,28,87
+2024,Proteomics,1,87
+2024,Transcriptomics,7,87
+2024,Unclear after full-text review,7,87
+2024,Virome,3,87
+2025,Genomics,1,90
+2025,Metabolomics,7,90
+2025,Metagenomics,4,90
+2025,Microbiome,25,90
+2025,Multi-omics,36,90
+2025,Mycobiome,1,90
+2025,"Other, specified",1,90
+2025,Transcriptomics,4,90
+2025,Unclear after full-text review,9,90
+2025,Virome,2,90
+2026,Microbiome,4,28
+2026,Multi-omics,16,28
+2026,Mycobiome,1,28
+2026,Transcriptomics,1,28
+2026,Unclear after full-text review,4,28
+2026,Virome,2,28

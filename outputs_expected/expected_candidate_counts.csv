@@ -1,0 +1,7 @@
+metric,expected_value,observed_value,status,notes
+candidate_total,499,499,pass,Directly detected candidate count.
+Evidence Tier I,15,15,pass,Mapped from Tier 3.
+Evidence Tier II,313,313,pass,Mapped from Tier 4.
+Evidence Tier III,171,171,pass,Mapped from Tier 5.
+microbiome_candidates,345,345,pass,Candidate omics split.
+metabolome_candidates,154,154,pass,Candidate omics split.

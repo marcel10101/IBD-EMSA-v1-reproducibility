@@ -1,0 +1,2 @@
+file,line,match_type,status,context,notes
+__summary__,,none,pass,,No local absolute paths were found in public docs/manifests scanned.
