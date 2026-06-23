@@ -1,0 +1,5 @@
+﻿task,modality,model,AUROC,AUPRC,status,notes
+IBD vs non-IBD,metabolomics,ridge logistic,0.790,0.917,locked_primary,internal proof-of-concept only
+CD vs non-IBD,metabolomics,ridge logistic,0.827,0.898,locked_primary,internal proof-of-concept only
+UC vs non-IBD,metabolomics,ridge logistic,0.855,0.894,locked_primary,internal proof-of-concept only
+ST001000 UC vs Control,faecal metabolomics,summary-level projection,0.892,0.935,summary_level_only,no row-level recomputation claim unless recomputed package exists

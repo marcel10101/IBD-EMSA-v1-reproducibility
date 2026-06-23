@@ -1,3 +1,11 @@
 # Data Availability Statement
 
-The processed matrices, candidate evidence tables, six-dimensional scoring tables, Tier assignment outputs, feature-filtering audit tables, HMP2/IBDMDB internal model scripts and outputs, recoverable locked model coefficients, ST001000 feature-matching and projection-status audit tables, figure-generation scripts, panel-level figure source data, source manifest, and minimum reproducibility instructions are prepared in a GitHub-ready repository package. Before manuscript submission, the repository release should be archived in Zenodo, OSF, or Figshare to obtain a permanent DOI. Raw third-party datasets are not redistributed where redistribution is restricted; instead, accession identifiers, source manifests, and processing scripts are provided. ST001000 is provided as a summary-level external metabolomics projection and recoverability audit, not as complete external validation of the full IBD-EMSA framework. Strict locked-model scoring is available only for model tasks and modalities with recovered coefficients, intercepts, and training-set scaling parameters.
+This repository provides release-screened scripts, audit-level outputs, source manifests, expected outputs, and documentation supporting the IBD-EMSA v1 exploratory evidence-to-state framework.
+
+Raw third-party datasets are not redistributed where access, licensing, size, privacy, or original repository rules restrict redistribution. Public data sources and accession records should be accessed through their original repositories.
+
+Processed audit-level outputs and scripts are included where redistribution is allowed. HMP2/IBDMDB-derived internal model materials and ST001000-related materials are represented through release-screened manifests, summaries, scripts, or audit tables.
+
+ST001000 is documented as a summary-level external faecal metabolomics projection. No complete external-validation or end-to-end validation claim is made for the full IBD-EMSA framework unless a future release explicitly includes complete row-level recomputation files.
+
+No verified Zenodo DOI is asserted in this update package. Add a Zenodo, OSF, Figshare, or other archive DOI only after the final public release record is created and verified.

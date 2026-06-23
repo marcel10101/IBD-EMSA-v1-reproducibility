@@ -1,0 +1,10 @@
+﻿category,count,percentage,denominator,include_in_Figure2E
+Stool/feces,192,39.1,491,true
+Colonic tissue,113,23.0,491,true
+Serum/plasma/blood,101,20.6,491,true
+Ileal tissue,77,15.7,491,true
+Intestinal mucosa/biopsy,69,14.1,491,true
+Rectal tissue,50,10.2,491,true
+Not reported/unclear human source,27,5.5,491,true
+Saliva/oral,20,4.1,491,true
+Urine,19,3.9,491,true
