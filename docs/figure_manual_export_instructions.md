@@ -1,8 +1,6 @@
 # Figure Manual Export Instructions
 
-Use the corrected PPTX below for manual export:
-
-`D:\Research Materials\IBD Item1 Meta-Model\EMSAv1-Manuscript Drafts\JCC_major_revision_package_20260623_102255\04_revised_figures\Figure_JCC_corrected_20260623_102255.pptx`
+Use the corrected JCC figure deck retained in the private manuscript package under `04_revised_figures/` for manual export. The private manuscript package and PPTX are intentionally not redistributed in this public repository.
 
 Do not export from the old `EMSAv1Main Charts\Figure.pptx`.
 

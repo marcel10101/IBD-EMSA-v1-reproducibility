@@ -1,0 +1,13 @@
+omics_category,count,percentage,single_or_multi_omics,display_label,notes
+Multi-omics,206,41.96,Multi-omics,Multi-omics,Computed from primary_omics_type in the final 491-row closure master.
+Microbiome,171,34.83,Single/other category,Microbiome,Computed from primary_omics_type in the final 491-row closure master; do not relabel the full category as amplicon-only.
+Transcriptomics,37,7.54,Single/other category,Transcriptomics,Computed from primary_omics_type in the final 491-row closure master.
+Metabolomics,28,5.70,Single/other category,Metabolomics,Computed from primary_omics_type in the final 491-row closure master.
+Virome,17,3.46,Single/other category,Virome,Computed from primary_omics_type in the final 491-row closure master.
+Metagenomics,8,1.63,Single/other category,Shotgun metagenomics,All eight primary Metagenomics records are coded as Shotgun metagenomics.
+Proteomics,8,1.63,Single/other category,Proteomics,Computed from primary_omics_type in the final 491-row closure master.
+Mycobiome,6,1.22,Single/other category,Mycobiome,Computed from primary_omics_type in the final 491-row closure master.
+Epigenomics,5,1.02,Single/other category,Epigenomics,Computed from primary_omics_type in the final 491-row closure master.
+Genomics,3,0.61,Single/other category,Genomics,Computed from primary_omics_type in the final 491-row closure master.
+"Other, specified",1,0.20,Single/other category,"Other, specified",Computed from primary_omics_type in the final 491-row closure master.
+Unclear after full-text review,1,0.20,Single/other category,Unclear/not classified,Computed from primary_omics_type in the final 491-row closure master.

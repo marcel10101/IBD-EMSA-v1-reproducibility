@@ -1,0 +1,10 @@
+check_item,value,status,evidence
+representative_sample_count,156,PASS,The selected sample-order table contains 156 unique paired sample IDs.
+HC_sample_count,52,PASS,Deterministic selection uses 52 HC samples.
+UC_sample_count,52,PASS,Deterministic selection uses 52 UC samples.
+CD_sample_count,52,PASS,Deterministic selection uses 52 CD samples.
+microbiome_matrix_rows,470,PASS,The plotted pre-candidate microbiome matrix contains 470 feature rows.
+metabolome_matrix_rows,1000,PASS,The plotted pre-candidate metabolome matrix contains 1000 feature rows.
+zscore_matrix_sample_columns,156,PASS,The derived z-score matrix has 156 sample columns after the two identifier columns.
+sample_annotation_alignment,TRUE,PASS,Z-score matrix sample columns exactly match the ordered sample annotation table.
+x_axis_tick_labels,"1;52;104;156",PASS,Tick positions are zero-based 0 51 103 155 and are displayed as one-based labels.
